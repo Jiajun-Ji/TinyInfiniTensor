@@ -1,0 +1,92 @@
+[
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/allocator.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/allocator.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/allocator.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/data_type.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/data_type.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/data_type.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/graph.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/graph.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/graph.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/op_type.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/op_type.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/op_type.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/operator.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/operator.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/operator.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/runtime.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/runtime.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/runtime.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/core/tensor.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/tensor.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/core/tensor.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/concat.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/concat.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/concat.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/element_wise.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/element_wise.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/element_wise.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/transpose.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/transpose.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/transpose.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/kernels/cpu/unary.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/unary.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/kernels/cpu/unary.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/concat.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/concat.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/concat.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/element_wise.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/element_wise.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/element_wise.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/matmul.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/matmul.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/matmul.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/transpose.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/transpose.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/transpose.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/operators/unary.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/unary.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/operators/unary.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/utils/exception.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/utils/exception.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/utils/exception.cc"
+	},
+	{
+	  "directory": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/build",
+	  "command": "/usr/bin/c++ -DInfiniTensor_EXPORTS -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/include -fPIC -g -O2 -fopenmp -g -Wall -Werror -Wno-error=deprecated-declarations -Wno-error=pointer-arith -fPIC -Wno-error=unused-variable -o CMakeFiles/InfiniTensor.dir/src/utils/operator_utils.cc.o -c /home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/utils/operator_utils.cc",
+	  "file": "/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/src/utils/operator_utils.cc"
+	}
+	]

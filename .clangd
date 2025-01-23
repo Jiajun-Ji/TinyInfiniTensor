@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-Iinclude, -I/usr/include/c++/11, -I/usr/include/x86_64-linux-gnu/c++/11, -I/usr/lib/gcc/x86_64-linux-gnu/11/include, -I/home/jjji/personal_projects/InfiniTensor/TinyInfiniTensor/3rd-party/googletest/googletest/include]

@@ -5,6 +5,7 @@ cmake_minimum_required(VERSION 3.17)
 
 include(CMakeDependentOption)
 project(InfiniTensor C CXX)
+set(CMAKE_EXPORT_COMPILECOMMANDS ON)
 
 cmake_dependent_option(BUILD_TEST_CORE "Build tests for core components" ON BUILD_TEST OFF)
 

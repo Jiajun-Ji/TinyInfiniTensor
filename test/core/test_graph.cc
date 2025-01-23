@@ -25,8 +25,20 @@ namespace infini
         // 优化前
         g->print();
         g->optimize();
-        // 优化后
-        g->print();
+        // // 优化后
+        // g->print();
+		std::cout << "优化后的算子列表：" << std::endl;
+		for (const auto &op : g->getOperators()) {
+			std::cout << "算子类型: " << op->getOpType().toString()
+					<< ", GUID: " << op->getGuid() << std::endl;
+		}
+
+		std::cout << "优化后的张量列表：" << std::endl;
+		for (const auto &tensor : g->getTensors()) {
+			std::cout << "张量 GUID: " << tensor->getGuid()
+					<< ", 形状: " << vecToString(tensor->getDims())
+					<< ", 数据类型: " << tensor->getDType().toString() << std::endl;
+		}
         EXPECT_EQ(g->getOperators().size(), 1);
         EXPECT_EQ(g->getTensors().size(), 3);
         EXPECT_EQ(g->getOperators()[0]->getOpType().underlying(), 7);

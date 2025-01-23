@@ -1,6 +1,7 @@
 #pragma once
 #include "core/common.h"
 #include <random>
+#include "core/tensor.h"
 
 namespace infini {
 

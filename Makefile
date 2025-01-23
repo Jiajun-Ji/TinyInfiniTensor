@@ -16,3 +16,6 @@ clean:
 test-cpp:
 	@echo
 	cd build/$(TYPE) && make test
+	
+run: build test-cpp
+	@echo "Build and tests completed successfully."
